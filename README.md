@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haqim007
-- 👀 I’m interested in Android, Machine Learning, and Wev
-- 🌱 I’m currently learning Android with Kotlin
+- 👀 I’m interested in Mobile app development especially Android Kotlin.
+- 🌱 I’m currently improving skills on Android with Kotlin
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me: Follow on twitter @haqim212
 
