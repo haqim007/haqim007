@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @haqim007
-- 👀 I’m interested in Mobile app development especially Android Kotlin.
-- 🌱 I’m currently improving skills on Android with Kotlin
+### 👋 Hi, I’m @haqim007
+- 👀 I’m interested in Software development..
+- 🌱 I’m currently improving skills on Native mobile development with kotlin and swift
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me: Follow on twitter @haqim212
 
